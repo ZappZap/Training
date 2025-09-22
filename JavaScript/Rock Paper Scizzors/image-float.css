@@ -1,0 +1,14 @@
+.character-image-right {
+    float: right;
+    width: 150px;
+    margin: 0 0 1em 1em;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .character-info-left {
+    float: left;
+    width: 45%;
+    margin: 0 1em 1em 0;
+  }
+  

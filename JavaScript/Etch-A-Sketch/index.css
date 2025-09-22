@@ -1,0 +1,9 @@
+#bodyGrid {
+    background-color:crimson;
+    display: flex;
+    border-radius: 2px;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    font-size: 100px;
+}
